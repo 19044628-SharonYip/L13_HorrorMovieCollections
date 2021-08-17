@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">L13_HorrorMovieCollections</string>
+    <string name="btnShow">show movies</string>
+    <string name="btnInsert">insert movies</string>
+    <string name="tvWelcome">Welcome</string>
+    <string name="btn5Stars">Show all movie with 5 stars</string>
+
+    <string name="name">Movie Name</string>
+    <string name="hint_name">Enter Movie Name here</string>
+    <string name="year">Released year</string>
+    <string name="hint_year">Enter released year here</string>
+    <string name="desc">Description</string>
+    <string name="hint_desc">Enter Movies description here</string>
+    <string name="area">PG Rate</string>
+    <string name="hint_area">Enter PG Rate</string>
+    <string name="stars">Stars</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <string name="title_activity_list">Movie List</string>
+    <string name="title_activity_main">Horror Movie Collections</string>
+
+    <string name="id">Movie ID</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
